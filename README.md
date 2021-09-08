@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+
+
+
 <a href="https://hyelimkungkung.tistory.com/">
     <img 
         src="https://play-lh.googleusercontent.com/HOwb9RHtv3AsCEyB-v1ni4z1TMgjqUJRP9FWFLNVsG-D8xoxxtfjGigzudTgSs0l8_g"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        width="30"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 
